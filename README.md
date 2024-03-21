@@ -4,9 +4,9 @@ This repository contains "Hello, World!" programs written in 20 different progra
 
 ## Programming Languages Included
 
-1. [Python](python/README_python.md)
-2. [JavaScript](javascript/README_javascript.md)
-3. [Java](java/README_java.md)
+1. [Python](Python/README_python.md)
+2. [JavaScript](JavaScript/README_javascript.md)
+3. [Java](Java/README_java.md)
 4. [C++](cpp/README.md)
 5. [C#](csharp/README.md)
 6. [Ruby](ruby/README.md)
